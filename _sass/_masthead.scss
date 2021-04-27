@@ -12,8 +12,13 @@
   margin-bottom: 0;
 
   a {
-    color: inherit;
+    color: var(--tulabyte-green);
     text-decoration: none;
+
+    &:hover,
+    &:focus {
+    color: var(--link-hover-color);
+  }
   }
 
   small {
