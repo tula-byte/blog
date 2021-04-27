@@ -1,9 +1,9 @@
 # Setup
-title: Dark Poole
-url: https://andrewhwanpark.github.io/dark-poole
+title: TulaByte Blog
+url: https://blog.tulabyte.com
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
-baseurl: "/dark-poole"
+baseurl: ""
 permalink: pretty
 
 # Gems
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: TulaByte
+  url: https://tulabyte.com
+  email: admin@tulabyte.com
 
 # Custom vars
 version: 3.0.0
@@ -45,5 +45,5 @@ nav:
   - title: Blog
     url: /dark-poole/archive
 
-  - title: About
-    url: /dark-poole/about
+  - title: Return to TulaByte.com
+    url: https://tulabyte.com
