@@ -1,9 +1,8 @@
 # Setup
 title: TulaByte Blog
-url: https://blog.tulabyte.com
+url: https://blog.tulabyte.com/
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
-baseurl: ""
 permalink: pretty
 
 # Gems
