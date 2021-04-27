@@ -42,7 +42,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Blog
-    url: /dark-poole/archive
+    url: /archive
 
-  - title: Return to TulaByte.com
+  - title: 'Return to TulaByte.com'
     url: https://tulabyte.com
