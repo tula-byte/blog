@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Privacy Policy
+permalink: /privacy-policy/
 ---
 
 ## Introduction

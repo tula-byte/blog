@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Terms & Conditions of Use
+permalink: /terms-and-conditions
 ---
 
 ## Agreement to Terms of Use
