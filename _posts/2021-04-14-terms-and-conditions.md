@@ -400,7 +400,7 @@ You hereby waive any and all defenses you may have based on the electronic form 
 
 In order to resolve a complaint regarding the site or to receive further information regarding use of the site, please contact us at:
 
-Tulabyte (admin@tulabyte.com)
+Tulabyte (hello@tulabyte.com)
 
 303/8 Musgrave Street, West End, QLD 4101, Australia
 

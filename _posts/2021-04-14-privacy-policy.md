@@ -176,6 +176,6 @@ We may update this privacy policy from time to time. The updated version will be
 
 If you have questions or comments about this policy, please write to us at:
 
-Tulabyte (admin@tulabyte.com)
+Tulabyte (hello@tulabyte.com)
 
 303/8 Musgrave Street, West End, QLD 4101, Australia
