@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Terms and Conditions
+title: Terms & Conditions of Use
 ---
-# Terms &amp; Conditions of Use
-
-Last updated - 14th April, 2021
 
 ## Agreement to Terms of Use
 

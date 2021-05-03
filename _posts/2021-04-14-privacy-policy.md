@@ -2,9 +2,6 @@
 layout: post
 title: Privacy Policy
 ---
-# Privacy Policy
-
-Last Updated - 14th April, 2021
 
 ## Introduction
 
