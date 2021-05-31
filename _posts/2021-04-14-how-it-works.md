@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How TulaByte works
+title: How TulaByte Works
 permalink: /how-it-works
 ---
 
