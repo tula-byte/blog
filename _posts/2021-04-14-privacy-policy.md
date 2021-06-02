@@ -52,17 +52,17 @@ All testing data is based on testing on our services that is done in house at Tu
 
 We do not share, sell, rent or trade any of your information with third parties for their promotional or commercial purposes.
 
-## TulaByte App
+### TulaByte App
 
 The operation of the TulaByte App is explained clearly on other parts of the site. But broadly speaking, the App utilizes a **Local** VPN Profile to create a system-wide data tunnel. The entirety of the operation is resident on your device, and no data of any sort is transmitted to us in any form what-so-ever, and nor are we able to access any such data at any time.
 
-**Subscription Data**
+###Subscription Data
 
 Presently our App is a subscription service. This ensures that we work for our users and not advertisers or other third parties.
 
 Our subscriptions are processed through the platform providers that the App is hosted on (for example Apple for the iOS App store) and we do not have access to any data that may be required to process the subscriptions, nor do we wish to have access. Any user data that is required for the processing of the subscriptions (eg. credentials, payment data etc.) is handled by the platform provider and dealt with in accordance with their privacy policy as the case may be. You should review privacy policies of the platforms and contact them directly to respond to your questions.
 
-## Personal information you disclose to us
+### Personal information you disclose to us
 
 TulaByte does not collect any personal information on our users. However, it may be envisaged that some user information may be disclosed to us directly by some of our users as a part of routine business communication. Any personal information that you willingly disclose to us for any reason will be dealt with in context of your interaction with us and the sites, and this will be treated as normal business correspondence. This information will only be used for the specific reason that it was disclosed to us.
 
