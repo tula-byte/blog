@@ -41,8 +41,5 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Archive
-    url: /archive
-
   - title: tulabyte.com
     url: https://tulabyte.com
