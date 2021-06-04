@@ -1,6 +1,6 @@
 # Setup
-title: TulaByte Blog
-url: https://blog.tulabyte.com/
+title: TulaByte
+url: https://tulabyte.com/
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
 permalink: pretty
@@ -41,5 +41,5 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: tulabyte.com
-    url: https://tulabyte.com
+  - title: Main
+    url: https://info.tulabyte.com
