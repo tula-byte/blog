@@ -8,12 +8,12 @@ title: Home
   </span>
 </div>
 
-{% for post in posts %}
-  <h1>
+{% for post in site.posts %}
+  <h3>
       <a href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
       </a>
-  </h1>
+  </h3>
   <span>
       {{ post.date | date: date_format }}
   </span>
