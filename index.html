@@ -15,7 +15,7 @@ title: Home
       </a>
   </h3>
   <span>
-      {{ post.date | date: date_to_string }}
+    <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
   </span>
   <br/>
   <small>
