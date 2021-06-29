@@ -5,13 +5,13 @@
 .mainbar {
   padding-top: var(--spacer);
   padding-bottom: var(--spacer);
-  margin-bottom: var(--spacer-2);
-  background-color: var(--tulabyte-green-light);
+  margin-bottom: var(--spacer-3);
 }
 
 .mainbar_inset {
   padding: var(--spacer);
   color: var(--gray-700);
+  background-color: var(--tulabyte-green);
 
   a {
     color: var(--tulabyte-green);
