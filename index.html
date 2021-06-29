@@ -8,6 +8,24 @@ title: Home
   </span>
 </div>
 
+{%- for post in posts -%}
+
+  <h1>
+      <a href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+      </a>
+  </h1>
+  <span>
+      {{ post.date | date: date_format }}
+  </span>
+  <br/>
+  <small>
+      <em>{{ post.content | strip_html | escape | truncate: 300}}</em>
+  </small>
+
+{%- endfor -%}
+
+<!--
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
 
@@ -18,7 +36,7 @@ title: Home
     {% endfor %}
   </ul>
 {% endfor %}
-<!--
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
