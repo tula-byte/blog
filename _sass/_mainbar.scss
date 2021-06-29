@@ -1,0 +1,25 @@
+// Mainbar
+//
+// Shows some context information and links to tulabyte.com
+
+.mainbar {
+  padding-top: var(--spacer);
+  padding-bottom: var(--spacer);
+  margin-bottom: var(--spacer-2);
+  background-color: var(--tulabyte-green-light);
+}
+
+.mainbar_inset {
+  padding: var(--spacer);
+  color: var(--gray-700);
+
+  a {
+    color: var(--tulabyte-green);
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+    color: var(--link-hover-color);
+  }
+  }
+}

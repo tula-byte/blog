@@ -2,6 +2,12 @@
 layout: default
 title: Home
 ---
+<div class="mainbar">
+  <span class="mainbar-inset">
+    TulaByte prevents malicious trackers and other unwanted badware from weakening your digital privacy. An easy-to-use tool designed to give the user complete control of their data. <a href="https://tulabyte.com">Learn More →</a>
+  </span>
+</div>
+
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
 
