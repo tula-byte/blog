@@ -8,8 +8,7 @@ title: Home
   </span>
 </div>
 
-{%- for post in posts -%}
-
+{% for post in posts %}
   <h1>
       <a href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
@@ -22,8 +21,7 @@ title: Home
   <small>
       <em>{{ post.content | strip_html | escape | truncate: 300}}</em>
   </small>
-
-{%- endfor -%}
+{% endfor %}
 
 <!--
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
