@@ -10,6 +10,8 @@ Some companies however attempt to thwart individuals who are attempting to take 
 
 The default Blocklist and Allowlist covers the large majority of tracker and badware domains and is a reliable preset for most users. However, more advanced users may wish to fine-tune or even completely customise their lists. The TulaByte app thus gives users full control of the 2 lists through the **Modify Lists** page.
 
+> TulaByte curates lists for use with the app. [See them here.]({{ site.baseurl }}{% link _posts/2021-07-12-curated-lists.md %})
+
 See below for how to guides on key features.
 - [How to search the lists](#how-to-search-the-lists)
 - [How to delete list items](#how-to-delete-list-items)
