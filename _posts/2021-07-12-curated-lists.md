@@ -15,7 +15,7 @@ This blocklist has been enhanced with more tracking and badware URLs. This is st
 ### <a href="../assets/lists/block/mega_blocklist.txt" download> Mega Blocklist </a>
 This blocklist with more than 18,000 domains blocked covers the large majority of widespread trackers and badware, but comes with a greater likelihood of pages and apps misbehaving. Although our internal testing has shown that this list does not adversely affect the normal usage of one's device. The list is based on [Steven Black's Master Blocklist](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts).
 
-> This list is ***very large***. The TulaByte app may take a few minutes to properly load it.
+> This list is ***currently not recommended***. It has been causing the app to become unstable and a fix is under development.
 
 ## Allowlists
 
